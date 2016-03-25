@@ -1,5 +1,8 @@
+name: jarkko
+favicon: null
+layout_spectrum: 0.1928034
+typography_spectrum: 0
 title: Living the life on my own terms
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.6875
-  brandStrength: 1
-  lightness: 1
   brandColors:
     - '#050403'
     - '#FCF4E7'
     - '#9A5C1F'
     - '#ABE801'
     - '#3B3B7F'
+  brandStrength: 1
+  lightness: 1
+  saturation: 0.6875
   rhythmicContrast: 0.75
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: jarkko
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.3819506333675236
-layout_spectrum: 0.1928034
+purpose: []
