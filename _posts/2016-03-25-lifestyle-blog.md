@@ -1,14 +1,14 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Lifestyle and travel. Wealth and health
-datePublished: '2016-03-25T20:34:06.239Z'
-dateModified: '2016-03-25T20:28:57.908Z'
-title: Lifestyle blog
+datePublished: '2016-03-26T09:40:40.452Z'
+dateModified: '2016-03-25T20:34:13.613Z'
+title: 'Adventures, fun, friends, laugh, travel and love'
 author: []
 sourcePath: _posts/2016-03-25-lifestyle-blog.md
 published: true
@@ -19,16 +19,16 @@ publisher:
   url: null
   favicon: null
 url: lifestyle-blog/index.html
-_type: WebPage
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/71f0d9ef-21cb-439f-8b20-e3ca643835f5.jpg)
 
   
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9edcf9d2-ba45-4e94-9e1b-71d553e6ff0c.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/257a3228-a5d2-424c-9bb6-76ee5f2589fe.jpg)
 
 Lifestyle and travel. Wealth and health
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/257a3228-a5d2-424c-9bb6-76ee5f2589fe.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c3d1361-fa08-47c5-9b90-cd8ead7404fc.jpg)
 
 3 mandatory factor for freedom
