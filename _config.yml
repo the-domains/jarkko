@@ -1,7 +1,7 @@
 name: jarkko
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 1
+layout_spectrum: 0.49384
+typography_spectrum: 0.75895
 title: Living the life on my own terms
 collections:
   - index:
@@ -29,13 +29,13 @@ opengraph:
   appId: null
 color:
   brandColors:
+    - '#000000'
     - '#ffffff'
-    - '#957f62'
-    - '#d5a874'
-    - '#f4daa5'
-    - '#3a240f'
-  brandStrength: 0
+    - '#a6a09d'
+    - '#6c7098'
+    - '#3e2d24'
+  brandStrength: 0.5
   lightness: 0.5625
   saturation: 0.5
-  rhythmicContrast: 0.25
+  rhythmicContrast: 0.5
 purpose: []
